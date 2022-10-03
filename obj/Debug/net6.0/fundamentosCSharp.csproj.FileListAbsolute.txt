@@ -1,0 +1,15 @@
+C:\Users\wagne\Desktop\www\fundamentosCSharp\bin\Debug\net6.0\fundamentosCSharp.exe
+C:\Users\wagne\Desktop\www\fundamentosCSharp\bin\Debug\net6.0\fundamentosCSharp.deps.json
+C:\Users\wagne\Desktop\www\fundamentosCSharp\bin\Debug\net6.0\fundamentosCSharp.runtimeconfig.json
+C:\Users\wagne\Desktop\www\fundamentosCSharp\bin\Debug\net6.0\fundamentosCSharp.dll
+C:\Users\wagne\Desktop\www\fundamentosCSharp\bin\Debug\net6.0\fundamentosCSharp.pdb
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.csproj.AssemblyReference.cache
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.AssemblyInfo.cs
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.dll
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\refint\fundamentosCSharp.dll
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.pdb
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\fundamentosCSharp.genruntimeconfig.cache
+C:\Users\wagne\Desktop\www\fundamentosCSharp\obj\Debug\net6.0\ref\fundamentosCSharp.dll
