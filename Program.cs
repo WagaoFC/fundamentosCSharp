@@ -1,9 +1,12 @@
 ﻿using System;
 
-class Program
+namespace FundamentosCSharp 
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine('teste');
+        static void Main(string[] args)
+        {
+            Console.WriteLine('teste');
+        }
     }
 }
